@@ -1,3 +1,3 @@
 # **Lucx Lab**
 
-👨‍💻 More informations will come out very soon !
+Lucx is a community of developers working together. Its aim is to simplify project management, making it as transparent as possible for developers in their missions.
